@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Miwik1</string>
+    <string name="category_number">Numbers</string>
+    <string name="category_family">Family Members</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_phrase">Phrase</string>
+</resources>
